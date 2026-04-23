@@ -1,0 +1,24 @@
+# NetBeans
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# Build and distribution folders
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database or sensitive files
+*.db
+*.sqlite
+*.log
+
+# Java
+*.class
+
+# Others
+*.iml
+.idea/
