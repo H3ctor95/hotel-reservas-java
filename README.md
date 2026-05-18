@@ -29,12 +29,3 @@ Este proyecto es un sistema de gestión de hotel desarrollado en Java, orientado
 3. Configura la conexión a la base de datos en el archivo correspondiente (`ConectaDB.java`).
 4. Compila y ejecuta el proyecto.
 
-## Notas
-- No subas archivos de configuración privada ni bases de datos locales.
-- Personaliza los parámetros de conexión según tu entorno.
-
-## Autor
-- [Tu Nombre]
-
----
-¡Contribuciones y sugerencias son bienvenidas!
